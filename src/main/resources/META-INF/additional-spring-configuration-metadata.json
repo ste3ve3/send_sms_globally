@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "twilio.account_id",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.account_id'"
+  },
+  {
+    "name": "twilio.auth_token",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.auth_token'"
+  },
+  {
+    "name": "twilio.trial_number",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.trial_number'"
+  },
+  {
+    "name": "twilio.accountSid",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.accountSid'"
+  },
+  {
+    "name": "twilio.authToken",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.authToken'"
+  },
+  {
+    "name": "twilio.trialNumber",
+    "type": "java.lang.String",
+    "description": "A description for 'twilio.trialNumber'"
+  }
+]}
